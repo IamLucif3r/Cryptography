@@ -1,7 +1,7 @@
     #include<bits/stdc++.h>
     using namespace std;
    
-    int main() {
+    int main() {    
     cout<<"[*] ENTER PLAIN TEXT:\n";
     char msg[100];
     cin.getline(msg,100); //take the message as input
